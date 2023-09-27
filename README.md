@@ -1,6 +1,6 @@
-#Ejercicio 1,2 y 3 - IS3
+# Ejercicio_1_2_3_IS3
 
-Configuración inicial y creación de un repositorioObjetivo: Configurar GitHub Desktop, crear una cuenta en GitHub, y crear un repositorio local y remoto.
+Ejercicio 1: Configuración inicial y creación de un repositorioObjetivo: Configurar GitHub Desktop, crear una cuenta en GitHub, y crear un repositorio local y remoto.
 
 Configura una cuenta en GitHub y descarga GitHub Desktop si aún no lo has hecho.
 
@@ -10,7 +10,7 @@ Inicializa el repositorio con un archivo README.md.
 
 Realiza tu primer commit y sincroniza el repositorio con GitHub.com.
 
-
+# ----------------------------------------------------------------------
 
 Ejercicio 2: Trabajo con ramasObjetivo: Aprender a crear, cambiar y fusionar ramas en Git.
 
@@ -24,7 +24,7 @@ Cambia nuevamente a la rama principal y observa cómo los cambios no están pres
 
 Fusiona la rama "desarrollo" en la rama principal y sincroniza con GitHub.com.
 
-
+# ----------------------------------------------------------------------
 
 Ejercicio 3: Colaboración y Pull RequestsObjetivo: Trabajar en equipo y enviar Pull Requests en GitHub.
 
